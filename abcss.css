@@ -1,0 +1,38 @@
+
+/* about    */
+.about-section{
+    background: url(img/tour.png) no-repeat left;
+    background-size: 47%;
+    background-color: #0f8b03;
+    overflow: hidden;
+    padding:  0;
+    margin: 0;
+  }
+  
+  .inner-container{
+    width: 55%;
+    float: right;
+    background-color: #e71111;
+    padding: 150px;
+  }
+  
+  .inner-container h1{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900;
+  }
+  
+  .text{
+    font-size: 13px;
+    color: #fdfafa;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+  }
+  
+  .skills{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 13px;
+  }
